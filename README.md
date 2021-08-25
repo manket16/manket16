@@ -1,10 +1,12 @@
 ### Hi there 👋 I'm Manket
 
--🌱 I’m currently learning Blockhain and AI
+- 🌱 I’m currently learning Blockhain and AI
 - 💬 Ask me about latest tech and startups
 
 
 ### Connect with me
+Twitetr - @Manket2
+Website - https://bio.link/manket
 
 <!--
 **manket16/manket16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
