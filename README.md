@@ -4,7 +4,7 @@
 - 💬 Ask me about latest tech and startups
 
 
-### Connect with me
+### 📫 How to reach me
 - Twitter -> https://twitter.com/Manket2?s=09
 - Website -> https://bio.link/manket
 
