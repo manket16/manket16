@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Blockhain and AI
 - 💬 Ask me about latest tech and startups
 
-## Resume
-- https://www.overleaf.com/read/hfmgrprtwhdv
 
 
 ### 📫 How to reach me
