@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Manket
 
-- 🌱 I’m currently learning Blockhain and AI
+- 🌱 I’m currently learning Blockhain Development
 - 💬 Ask me about latest tech and startups
 
 
