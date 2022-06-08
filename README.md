@@ -6,7 +6,7 @@
 
 ### 📫 How to reach me
 - Twitter - https://twitter.com/Manket_
-- Website - manket.xyz
+- Website - https://www.manket.xyz/
 
 <!--
 **manket16/manket16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
